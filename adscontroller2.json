@@ -1,14 +1,14 @@
 {
   "AdsAppController": {
     //comment : fan, max, iron
-    "TypeAd": "max",
+    "TypeAd": "fan",
 
-    "TypeNativeAd": "max",
+    "TypeNativeAd": "fan",
 
-    "BannerListFAN": "606946453278732_606946973278680",
-    "BannerDetailsFAN": "606946453278732_606946973278680",
-    "InterstitialFAN": "606946453278732_721319741841402",
-    "NativeFAN": "606946453278732_923096084997099",
+    "BannerListFAN": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+    "BannerDetailsFAN": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+    "InterstitialFAN": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+    "NativeFAN": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
 
     "BannerListMax": "29252771ffca9ebe",
     "BannerDetailsMax": "29252771ffca9ebe",
