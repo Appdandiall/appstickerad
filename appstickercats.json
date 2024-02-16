@@ -5,10 +5,10 @@
 
     "TypeNativeAd": "fan",
 
-    "BannerListFAN": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-    "BannerDetailsFAN": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-    "InterstitialFAN": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-    "NativeFAN": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+    "BannerListFAN": "",
+    "BannerDetailsFAN": "",
+    "InterstitialFAN": "",
+    "NativeFAN": "",
 
     "BannerListMax": "",
     "BannerDetailsMax": "",
