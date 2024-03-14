@@ -1,7 +1,7 @@
 {
   "AdsAppController": {
     //comment : fan, max, iron
-    "TypeAd": "fan",
+    "TypeAd": "max",
 
     "TypeNativeAd": "fan",
 
@@ -12,7 +12,7 @@
 
     "BannerListMax": "",
     "BannerDetailsMax": "",
-    "InterstitialMax": "",
+    "InterstitialMax": "cc3dd3e185a84891",
     "NativeMax": "",
 
     "idiron": "",
