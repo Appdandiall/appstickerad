@@ -1,9 +1,9 @@
 {
   "AdsAppController": {
     //comment : fan, max, iron
-    "TypeAd": "fan",
+    "TypeAd": "max",
 
-    "TypeNativeAd": "fan",
+    "TypeNativeAd": "max",
 
     "BannerListFAN": "606946453278732_774861993153843",
     "BannerDetailsFAN": "606946453278732_774861993153843",
@@ -17,6 +17,6 @@
 
     "idiron": "",
     
-    "AdsClick": 1
+    "AdsClick": 2
   }
 }
