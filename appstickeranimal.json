@@ -1,7 +1,7 @@
 {
   "AdsAppController": {
     //comment : fan, max, iron
-    "TypeAd": "max",
+    "TypeAd": "fan",
 
     "TypeNativeAd": "fan",
 
